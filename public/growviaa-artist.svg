@@ -1,0 +1,28 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="#17130F"/>
+  <circle cx="680" cy="200" r="210" fill="#D5A35F" fill-opacity=".16"/>
+  <path d="M0 930C145 825 255 790 450 790C645 790 755 825 900 930V1100H0V930Z" fill="#0B0A09"/>
+  <path d="M232 1100C250 886 322 782 450 782C578 782 650 886 668 1100H232Z" fill="#D5A35F"/>
+  <path d="M313 1100C328 913 365 835 450 835C535 835 572 913 587 1100H313Z" fill="#17130F"/>
+  <path d="M280 445C280 247 348 116 450 116C552 116 620 247 620 445V565C620 688 542 790 450 790C358 790 280 688 280 565V445Z" fill="#D9A57A"/>
+  <path d="M274 426C253 243 320 83 456 83C592 83 652 238 624 433C589 343 535 292 450 277C383 298 333 347 274 426Z" fill="#0B0A09"/>
+  <path d="M328 276C363 190 414 147 481 147C531 147 574 177 603 231C549 207 507 205 458 226C410 246 377 273 328 276Z" fill="#17130F"/>
+  <path d="M354 459C377 442 404 439 426 451" stroke="#17130F" stroke-width="13" stroke-linecap="round"/>
+  <path d="M474 451C496 439 523 442 546 459" stroke="#17130F" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="395" cy="477" r="9" fill="#17130F"/>
+  <circle cx="505" cy="477" r="9" fill="#17130F"/>
+  <path d="M431 574C449 586 469 586 487 574" stroke="#17130F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M334 554C351 629 390 672 450 672C510 672 549 629 566 554" stroke="#B87D5E" stroke-width="8" stroke-linecap="round"/>
+  <path d="M450 528L435 566H461" stroke="#B87D5E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M292 516C242 553 202 624 196 706" stroke="#D9A57A" stroke-width="58" stroke-linecap="round"/>
+  <path d="M608 516C658 553 698 624 704 706" stroke="#D9A57A" stroke-width="58" stroke-linecap="round"/>
+  <path d="M207 714C241 694 275 700 297 733C316 762 307 800 279 816C250 833 215 820 198 790C180 759 181 730 207 714Z" fill="#D9A57A"/>
+  <path d="M693 714C659 694 625 700 603 733C584 762 593 800 621 816C650 833 685 820 702 790C720 759 719 730 693 714Z" fill="#D9A57A"/>
+  <path d="M218 757L279 737M214 780L276 760M682 757L621 737M686 780L624 760" stroke="#17130F" stroke-width="9" stroke-linecap="round"/>
+  <path d="M375 815C402 851 498 851 525 815" stroke="#D5A35F" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="450" cy="811" r="31" fill="#17130F" stroke="#D5A35F" stroke-width="7"/>
+  <path d="M450 790L456 804L472 806L460 817L463 833L450 825L437 833L440 817L428 806L444 804L450 790Z" fill="#D5A35F"/>
+  <path d="M120 1008C145 928 217 878 285 866" stroke="#D5A35F" stroke-width="3" stroke-dasharray="8 13" opacity=".6"/>
+  <text x="66" y="960" fill="#F5F0E8" font-family="Georgia, serif" font-size="34" letter-spacing="4">MILO INK</text>
+  <text x="69" y="994" fill="#D5A35F" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">ARTIST / FOUNDER</text>
+</svg>
